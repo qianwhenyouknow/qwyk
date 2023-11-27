@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Qian! When You Know"
+  navbar:
+    right:
+      - about.qmd
+format:
+  html:
+    highlight-style: vim-dark
+    code-block-border-left: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    theme: cyborg
+    css: styles.css
+    toc-location: right
+    toc: true
+    toc-expand: 3
+    toc-depth: 3

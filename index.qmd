@@ -1,0 +1,10 @@
+---
+title: "My articles"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [image, tags, date, title, author, reading-time]
+page-layout: full
+---
+

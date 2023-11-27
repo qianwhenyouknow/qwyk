@@ -1,0 +1,63 @@
+/* css styles */
+
+.row_table img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top; /* Pour aligner le haut de l'image avec le haut de la cellule du tableau */
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+red-blink {
+    background: #FF5582A6;
+    animation: blink 2.5s infinite;
+}
+
+
+red {
+    background: #FF5582A6;;
+}
+
+orange {
+    background: orange;
+}
+
+green {
+    background: #BBFABBA6;
+}
+
+yellow {
+    background: #FFF3A3A6;
+}
+
+blue {
+    background: lightskyblue; 
+}
+
+gray {
+    background: rgba(128, 128, 128, 0.742);
+}
+/* 
+.cell-output-stdout {
+    background-color: #f3f3f3;
+    border-radius: 4px;
+} */
+
+/* .mermaid-js {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* ou la taille que vous souhaitez */
+} */
+

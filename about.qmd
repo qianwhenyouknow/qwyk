@@ -1,0 +1,30 @@
+---
+title: "About Me"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/qianwen-yu-901558223/
+
+---
+My name is **Qianwen Yu**, originally from China. I recently moved to France, where I am now pursuing my studies in data analysis at **Sciences Po Lille** in collaboration with **l’Ecole Centrale de Lille**.
+
+This blog is a simple platform where I document my learnings in coding, data, and English language improvement. It serves as a tool for self-reflection, allowing me to learn and grow more efficiently. 
+
+Your presence and feedback are appreciated as we both embark on this learning journey.
+
+<red>**Qian!**</red>
+
+```{mermaid}
+  graph TD
+    A[Qianwen Yu] --> AA["Studies"]
+    AA --> B[Sciences Po Lille]
+    AA --> F["l’Ecole Centrale de Lille"]
+    A --> C["Goals"]
+    C --> DD["English/French Improvement"]
+    C --> D["Data Analysis"]
+    C --> E["Coding"]
+```
+
