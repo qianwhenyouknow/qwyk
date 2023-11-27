@@ -18,3 +18,5 @@ format:
     toc: true
     toc-expand: 3
     toc-depth: 3
+    favicon: favicon.ico
+    site-url: https://qianwhenyouknow.com
