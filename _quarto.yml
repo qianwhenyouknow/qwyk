@@ -21,4 +21,5 @@ format:
     favicon: favicon.ico
     site-url: https://qianwhenyouknow.com
     include-in-header:
+    - ./analytics.html 
     - text: <link rel = "shortcut icon" href = "favicon.ico" />
