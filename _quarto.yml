@@ -20,3 +20,5 @@ format:
     toc-depth: 3
     favicon: favicon.ico
     site-url: https://qianwhenyouknow.com
+    include-in-header:
+    - text: <link rel = "shortcut icon" href = "favicon.ico" />
